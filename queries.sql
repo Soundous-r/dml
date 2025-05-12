@@ -1,4 +1,4 @@
-INSERT INTO CUSTOMERS (Customer_id, Customer_Name, Customer_Tel)
+INSERT INTO CUSTOMER (Customer_id, Customer_Name, Customer_Tel)
 VALUES 
 ('C01', 'Ali', '71321009'),
 ('C02', 'Asma', '77345823');
